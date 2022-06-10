@@ -1,0 +1,5 @@
+Assignment 1 write a class shape with vitual method Area () and 
+inherit to circle,rectangle ,triangle2 write inherited class car, bike 
+from vehicle class3write a abstract class container with properties type, color, 
+width, height and abstract method capacity,inherite to bag  with  overriden method capacity() 
+formula is calculated depending upon type , width and height : for type plastic T=10,cotton T=20, jute t=30 and capacity =Tx widthx height

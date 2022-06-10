@@ -1,0 +1,5 @@
+Assignment 1create console app to enter 2 numbers find sum, write 
+function to enter name, designation and salary , departmanet, using optional parametrs
+ 3 use named parameters to call the function,4 write array of fruits and sort it ,display array ,
+ 5 Area of rectangle using ref and out keywords ,
+6 write function Account with parameters firstname,lastname, basicsalary, department ) and display fullname with gross sal given formula (Gross=basic+HRA,DA +CT) use names parameters and optional vaule to call fuction

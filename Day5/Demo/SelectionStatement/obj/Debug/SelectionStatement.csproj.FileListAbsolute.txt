@@ -1,0 +1,7 @@
+C:\Users\samsung\Desktop\HCL_Dec21\HCLConsoleApp\SelectionStatement\bin\Debug\SelectionStatement.exe.config
+C:\Users\samsung\Desktop\HCL_Dec21\HCLConsoleApp\SelectionStatement\bin\Debug\SelectionStatement.exe
+C:\Users\samsung\Desktop\HCL_Dec21\HCLConsoleApp\SelectionStatement\bin\Debug\SelectionStatement.pdb
+C:\Users\samsung\Desktop\HCL_Dec21\HCLConsoleApp\SelectionStatement\obj\Debug\SelectionStatement.csproj.AssemblyReference.cache
+C:\Users\samsung\Desktop\HCL_Dec21\HCLConsoleApp\SelectionStatement\obj\Debug\SelectionStatement.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\HCL_Dec21\HCLConsoleApp\SelectionStatement\obj\Debug\SelectionStatement.exe
+C:\Users\samsung\Desktop\HCL_Dec21\HCLConsoleApp\SelectionStatement\obj\Debug\SelectionStatement.pdb

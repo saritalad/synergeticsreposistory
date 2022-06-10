@@ -1,0 +1,8 @@
+1Write a program using try catch to enter numbers and do 
+arithmetic operations using static function ADD,SubStract etc
+2 Write Custom exception class to check numbers entered are multiples of 5 . 
+3 Write program to use ArrayList for storing different kind of data and study all properties of arrayList 
+4 Study all properties and methods of stack and Queue Count, Sort() 
+5 Write a class product (name,price,category, expiry date) enter 5 objects in List and display them using foreach.
+6 Implement Icomparable interface in class Product to sort the prodictList by Price 
+7 Impletent IEnumarable interface  in class Department class having array of employees in it as containment.

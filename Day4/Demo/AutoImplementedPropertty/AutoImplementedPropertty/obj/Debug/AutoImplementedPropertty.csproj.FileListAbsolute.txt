@@ -1,0 +1,5 @@
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\AutoImplementedPropertty\AutoImplementedPropertty\bin\Debug\AutoImplementedPropertty.exe
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\AutoImplementedPropertty\AutoImplementedPropertty\bin\Debug\AutoImplementedPropertty.pdb
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\AutoImplementedPropertty\AutoImplementedPropertty\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\AutoImplementedPropertty\AutoImplementedPropertty\obj\Debug\AutoImplementedPropertty.exe
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\AutoImplementedPropertty\AutoImplementedPropertty\obj\Debug\AutoImplementedPropertty.pdb

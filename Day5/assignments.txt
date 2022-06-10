@@ -1,0 +1,5 @@
+Assignment1 write class Employee write constructors  
+and create objects :2 create array of students use toString() 
+method in each class3 write a method to find gross salary of employee , 
+4 class book  with  BookId,authername price ,publishdate , use contenment  
+for date5 write class medicine with medicine name,type(enum:syrup,inject,tab, capsule etc),expirydate create objects 

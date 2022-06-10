@@ -1,0 +1,7 @@
+C:\Users\samsung\Desktop\HCL_Dec21\HCLConsoleApp\InputStatement\bin\Debug\InputStatement.exe.config
+C:\Users\samsung\Desktop\HCL_Dec21\HCLConsoleApp\InputStatement\bin\Debug\InputStatement.exe
+C:\Users\samsung\Desktop\HCL_Dec21\HCLConsoleApp\InputStatement\bin\Debug\InputStatement.pdb
+C:\Users\samsung\Desktop\HCL_Dec21\HCLConsoleApp\InputStatement\obj\Debug\InputStatement.csproj.AssemblyReference.cache
+C:\Users\samsung\Desktop\HCL_Dec21\HCLConsoleApp\InputStatement\obj\Debug\InputStatement.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\HCL_Dec21\HCLConsoleApp\InputStatement\obj\Debug\InputStatement.exe
+C:\Users\samsung\Desktop\HCL_Dec21\HCLConsoleApp\InputStatement\obj\Debug\InputStatement.pdb
