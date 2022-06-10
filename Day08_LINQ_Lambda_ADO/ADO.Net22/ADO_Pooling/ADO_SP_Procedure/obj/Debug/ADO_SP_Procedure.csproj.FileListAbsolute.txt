@@ -1,0 +1,7 @@
+D:\ADO.Net22\ADO_Pooling\ADO_SP_Procedure\bin\Debug\ADO_SP_Procedure.exe.config
+D:\ADO.Net22\ADO_Pooling\ADO_SP_Procedure\bin\Debug\ADO_SP_Procedure.exe
+D:\ADO.Net22\ADO_Pooling\ADO_SP_Procedure\bin\Debug\ADO_SP_Procedure.pdb
+D:\ADO.Net22\ADO_Pooling\ADO_SP_Procedure\obj\Debug\ADO_SP_Procedure.csprojAssemblyReference.cache
+D:\ADO.Net22\ADO_Pooling\ADO_SP_Procedure\obj\Debug\ADO_SP_Procedure.csproj.CoreCompileInputs.cache
+D:\ADO.Net22\ADO_Pooling\ADO_SP_Procedure\obj\Debug\ADO_SP_Procedure.exe
+D:\ADO.Net22\ADO_Pooling\ADO_SP_Procedure\obj\Debug\ADO_SP_Procedure.pdb

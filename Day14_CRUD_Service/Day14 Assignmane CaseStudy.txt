@@ -1,0 +1,5 @@
+Develop Angular Application for Book Store 
+with book category
+Book Details
+Book Store with Supplied and Sold quantity 
+Create Transaction Table to keep record of sales. datewise bbokname,qty, price , amount

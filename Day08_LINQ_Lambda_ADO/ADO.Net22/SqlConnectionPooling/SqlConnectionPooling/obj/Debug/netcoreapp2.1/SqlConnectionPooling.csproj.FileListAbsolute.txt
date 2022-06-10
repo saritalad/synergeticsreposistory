@@ -1,0 +1,4 @@
+D:\ADO.Net22\SqlConnectionPooling\SqlConnectionPooling\obj\Debug\netcoreapp2.1\SqlConnectionPooling.csprojAssemblyReference.cache
+D:\ADO.Net22\SqlConnectionPooling\SqlConnectionPooling\obj\Debug\netcoreapp2.1\SqlConnectionPooling.csproj.CoreCompileInputs.cache
+D:\ADO.Net22\SqlConnectionPooling\SqlConnectionPooling\obj\Debug\netcoreapp2.1\SqlConnectionPooling.AssemblyInfoInputs.cache
+D:\ADO.Net22\SqlConnectionPooling\SqlConnectionPooling\obj\Debug\netcoreapp2.1\SqlConnectionPooling.AssemblyInfo.cs

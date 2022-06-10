@@ -1,0 +1,6 @@
+D:\ADO.Net22\ADO_Pooling\ADO_Transaction_Example\bin\Debug\ADO_Transaction_Example.exe.config
+D:\ADO.Net22\ADO_Pooling\ADO_Transaction_Example\bin\Debug\ADO_Transaction_Example.exe
+D:\ADO.Net22\ADO_Pooling\ADO_Transaction_Example\bin\Debug\ADO_Transaction_Example.pdb
+D:\ADO.Net22\ADO_Pooling\ADO_Transaction_Example\obj\Debug\ADO_Transaction_Example.csproj.CoreCompileInputs.cache
+D:\ADO.Net22\ADO_Pooling\ADO_Transaction_Example\obj\Debug\ADO_Transaction_Example.exe
+D:\ADO.Net22\ADO_Pooling\ADO_Transaction_Example\obj\Debug\ADO_Transaction_Example.pdb

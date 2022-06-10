@@ -1,0 +1,1 @@
+Assignment :create json data  for AccountHolder (AccountId,Name, OpeningBalance, openDate, Active ) and do crud operations use template driven form for posting data ( new record) and use Model driven form for Edit operations 

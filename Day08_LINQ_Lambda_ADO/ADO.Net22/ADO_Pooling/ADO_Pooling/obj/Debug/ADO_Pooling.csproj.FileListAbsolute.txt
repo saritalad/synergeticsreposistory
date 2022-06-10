@@ -1,0 +1,7 @@
+D:\ADO.Net22\ADO_Pooling\ADO_Pooling\bin\Debug\ADO_Pooling.exe.config
+D:\ADO.Net22\ADO_Pooling\ADO_Pooling\bin\Debug\ADO_Pooling.exe
+D:\ADO.Net22\ADO_Pooling\ADO_Pooling\bin\Debug\ADO_Pooling.pdb
+D:\ADO.Net22\ADO_Pooling\ADO_Pooling\obj\Debug\ADO_Pooling.csprojAssemblyReference.cache
+D:\ADO.Net22\ADO_Pooling\ADO_Pooling\obj\Debug\ADO_Pooling.csproj.CoreCompileInputs.cache
+D:\ADO.Net22\ADO_Pooling\ADO_Pooling\obj\Debug\ADO_Pooling.exe
+D:\ADO.Net22\ADO_Pooling\ADO_Pooling\obj\Debug\ADO_Pooling.pdb

@@ -1,0 +1,1 @@
+Assignment on Iteration : 1Design Pattern of Equilateral triangle of starts 2 Array : remove the elemnt from array giving position 3 find Min and max elemnt of array , 4 find GCD of given 2 numbers 5 Palindrome string program,

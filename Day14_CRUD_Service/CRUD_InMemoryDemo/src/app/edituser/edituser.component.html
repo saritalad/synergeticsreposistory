@@ -1,0 +1,59 @@
+<div class="row">
+    <div class="col-md-6 mx-auto">
+
+        <h1>Edit User</h1>
+        <form [formGroup]="userForm" (ngSubmit)="onSubmit()">
+
+            <div class="form-group">
+                <label for="firstname">First Name </label>
+                <input class="form-control" type="text" id="firstname" name="firstname" formControlName="firstname">
+                <div class="text-danger" *ngIf="Firstname.errors && Firstname.touched">
+                    <div *ngIf="Firstname.errors['required']">Firstname can not be empty</div>
+                    <div *ngIf="Firstname.errors['minlength']">minimum 4 characters </div>
+                </div>
+            </div>
+            <!-- <p >touched:{{Firstname.touched}}</p>
+    <p >untouched:{{Firstname.untouched}}</p>
+    <p >dirty:{{Firstname.dirty}}</p>
+    <p >pristine:{{Firstname.pristine}}</p>
+    <p >valid:{{Firstname.valid}}</p>
+    <p >Invalid:{{Firstname.invalid}}</p>
+    <p >errors:{{Firstname.errors|json}}</p>
+    <p >value:{{Firstname.value}}</p> -->
+            <div class="form-group">
+                <label for="lastname">Last Name </label>
+                <input class="form-control" type="text" id="lastname" name="lastname" formControlName="lastname">
+                <div class="text-danger" *ngIf="Lastname.errors && Lastname.touched">
+                    <div *ngIf="Lastname.errors['required']">lasstname can not be empty</div>
+                    <div *ngIf="Lastname.errors['minlength']">minimum 4 characters </div>
+                </div>
+            
+            </div>
+            <div class="form-group">
+                <label for="profession">Profession </label>
+                <input class="form-control" type="text" id="profession" name="profession" formControlName="profession">
+                <!-- <div class="text-danger" *ngIf="Profession.errors && Firstname.touched">
+                    <div *ngIf="Profession.errors['required']">Firstname can not be empty</div>
+                    <div *ngIf="Profession.errors['minlength']">minimum 4 characters </div>
+                </div> -->
+            </div>
+            <div class="form-group">
+                <label for="email">Email </label>
+                <input class="form-control" type="text" id="email" name="email" formControlName="email">
+                <!-- <div *ngIf="Email.errors">
+                    <div *ngIf="Email.errors['required']">
+                        Email required.
+                    </div>
+                    <div *ngIf="Email.errors['pattern']">
+                        Email not valid.
+                    </div>
+                </div> -->
+            </div>
+            <div class="form-group">
+                <button class="btn btn-success" type="submit" [disabled]="!userForm.valid">Submit</button>
+
+            </div>
+
+        </form>
+    </div>
+</div>
